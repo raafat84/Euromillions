@@ -8,7 +8,10 @@ Setup
 
 * Install [Suds](https://fedorahosted.org/suds/) to handle Web Services easily.
 * Get an Gmail account (Why don't you have it already?!).
-* Get this script and run it.
+* Get this script.
+* Set numbers and stars to play.
+* Set the email list to notify potential prizes.
+* Run it!.
 
 Usage
 =====
